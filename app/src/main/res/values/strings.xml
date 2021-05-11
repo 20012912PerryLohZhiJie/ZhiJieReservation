@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Zhi Jie\'s L04_Reservation</string>
+    <string name="chope_reservation_app">Chope Reservation App</string>
+    <string name="name">Name:</string>
+    <string name="mobile">Mobile:</string>
+    <string name="group_size">Group Size:</string>
+    <string name="details_completed">Details Completed!</string>
+    <string name="select_table">Select Table:</string>
+    <string name="display_table_type">Display Table type</string>
+    <string name="textview">TextView</string>
+    <string name="smoking_area">Smoking Area</string>
+    <string name="displaysmokingtext">Displaysmokingtext</string>
+    <string name="non_smoking_area">Non-Smoking Area</string>
+    <string name="nosmoking">NoSmoking</string>
+    <string name="display_date">Display Date:</string>
+    <string name="display_time">Display Time:</string>
+    <string name="disabled">Disabled</string>
+    <string name="reset">Reset</string>
+</resources>
